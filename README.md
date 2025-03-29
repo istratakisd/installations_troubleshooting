@@ -1,2 +1,2 @@
-# installations_troubleshooting
-In this repo i collect working installations and troubleshooting processes on windows and linux(debian) OSes
+# installations_troubleshootin
+In this repo i collect installations and troubleshooting processes that worked for me on windows and linux(debian) OSes
